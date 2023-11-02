@@ -18,8 +18,7 @@ Python script that defines a function `get_permutations` to find unique permutat
 5. Test Runner:
    - Use the `if __name__ == '__main__'` block to run the unit tests when the script is executed directly.
    - The `unittest.main()` function runs all test methods in the defined test class.
-     
----------------------------------------------------------------------------*****************************--------------------------------------------------------------------------------
+
  
 Python function `find_odd_int` that finds the integer that appears an odd number of times in a list of integers using the XOR (^) operator. It also includes a unit test and some additional test cases. Here's a breakdown of the structure and conventions used in the code:
 1. Function Definition:
@@ -35,7 +34,6 @@ Python function `find_odd_int` that finds the integer that appears an odd number
 4. Additional Test Cases:
    - After running the unit tests, the code also includes some additional test cases that are not part of the unit test function. These additional test cases are used to demonstrate the functionality of the `find_odd_int` function.
 
----------------------------------------------------------------------------*****************************--------------------------------------------------------------------------------
 
 Python function `countSmileys` that counts the number of valid smiley faces in a list of strings. It uses regular expressions (`re` module) to match valid smiley face patterns and then counts the matches. Here's a breakdown of the structure and conventions used in the code:
 1. Function Definition:
