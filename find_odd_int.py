@@ -3,7 +3,8 @@ import random
 
 def find_odd_int(arr):
     """Given an array of integers, find the one that appears an odd number of times.
-    Note: This function works in linear time, and works for negative and positive integers and zero.
+    Note: This function works in linear time (except for sorted which is O(n logn), 
+    and works for negative and positive integers and zero.
     """
     if len(arr) == 0:
         return None
