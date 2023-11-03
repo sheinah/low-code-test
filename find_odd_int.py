@@ -74,7 +74,7 @@ def test_find_odd_int():
         else:
             assert find_odd_int(full_array) == winner
 
-if __name__ == "__main":
+if __name__ == "__main__":
     print("Running tests...")
     test_find_odd_int()
 
